@@ -17,6 +17,6 @@ if any issues while using the software dont hesitate to put up a bug
 *VERY BETA ATM*
 # -----------------------------------------
 
-![ez](Vanilla-1s-280px.gif)
+![ez](gsploit.gif)
 
 ![-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=](blob:https://loading.io/84634ba5-04b1-4db5-a972-ca216d73b462)
