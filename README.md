@@ -19,4 +19,4 @@ if any issues while using the software dont hesitate to put up a bug
 
 ![ez](Vanilla-1s-280px.gif)
 
-![ez](blob:https://loading.io/84634ba5-04b1-4db5-a972-ca216d73b462)
+![-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=](blob:https://loading.io/84634ba5-04b1-4db5-a972-ca216d73b462)
